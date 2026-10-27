@@ -1,0 +1,10 @@
+{
+  "name": "FRIDAY Voice Assistant",
+  "short_name": "FRIDAY",
+  "description": "Private mobile voice chat with FRIDAY",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f18",
+  "theme_color": "#101522",
+  "icons": []
+}
